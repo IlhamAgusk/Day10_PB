@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Day10</string>
+    <string name="warung_gokil">Warung Gokil</string>
+    <string name="menu_makanan">Menu Makanan</string>
+    <string name="nasi_goreng">Nasi Goreng</string>
+    <string name="mie_goreng">Mie Goreng</string>
+    <string name="mie_rebus">Mie Rebus</string>
+    <string name="nasi_uduk">Nasi Uduk</string>
+    <string name="menu_minuman">Menu Minuman</string>
+    <string name="teh_es">Teh es</string>
+    <string name="es_jeruk">Es Jeruk</string>
+    <string name="jumlah_porsi">Jumlah Porsi</string>
+    <string name="pesan">Pesan</string>
+    <string name="warung_gokil2">Warung Gokil</string>
+    <string name="menu">Menu</string>
+    <string name="jenis_makanan">jenis makanan</string>
+    <string name="jenis_minuman">jenis minuman</string>
+    <string name="jumlah">jumlah</string>
+    <string name="harga">harga</string>
+</resources>
